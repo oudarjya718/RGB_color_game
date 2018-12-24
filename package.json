@@ -1,0 +1,15 @@
+{
+  "name": "colorgame-master",
+  "version": "1.0.0",
+  "description": "",
+  "main": "colorGame.html",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage":"https://github.com/oudarjya718/RGB_color_game",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
